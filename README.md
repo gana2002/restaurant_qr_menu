@@ -20,7 +20,7 @@ Digitalizing the food menu in the hotels and the restaurants through QR code and
 
 # WORKING
 1. Create customized QR code
-
+![WhatsApp Image 2023-05-30 at 21 16 15 (1)](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/f422b9f2-6958-47ab-8828-9e7b1eb00b68)
 2. Scan the QR code menu with Smart phone
 3. Automatically loads digital menu to order
 4. Call waiters through one press button
