@@ -5,6 +5,7 @@ This project was created at the WIE code National Hackathon hosted by IEEE.
 Digitalizing the food menu in the hotels and the restaurants through QR code and IOT devices.
 
 # FLOW CHART
+![Screenshot (274)](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/fa695c39-1cbe-4f48-9a7b-fc3c499d8586)
 
 # APPLICATIONS
 1. Reducing the spread of germs
