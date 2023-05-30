@@ -37,6 +37,8 @@ Digitalizing the food menu in the hotels and the restaurants through QR code and
 
 5. Restaurants receive orders and calls
 
+![WhatsApp Image 2023-05-30 at 21 16 14 (1)](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/c0998c9c-23a6-4e65-8b8e-4c0ad8de6a7e)
+
 # CONCLUSIONS 
 1. customers can scan the QR code and see the menu
 2. Place and edit orders 
