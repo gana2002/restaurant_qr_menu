@@ -33,6 +33,6 @@ Digitalizing the food menu in the hotels and the restaurants through QR code and
 6. check orders 
 
 # FUTURE SCOPE 
-See waiting time for the orders
-Restaurants generate invoices or bills
-Pay digitally through QR code or manually
+1. See waiting time for the orders
+2. Restaurants generate invoices or bills
+3. Pay digitally through QR code or manually
