@@ -20,12 +20,21 @@ Digitalizing the food menu in the hotels and the restaurants through QR code and
 
 # WORKING
 1. Create customized QR code
+
 ![WhatsApp Image 2023-05-30 at 21 16 15 (1)](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/f422b9f2-6958-47ab-8828-9e7b1eb00b68)
+
 2. Scan the QR code menu with Smart phone
+
 ![WhatsApp Image 2023-05-30 at 21 16 14 (2)](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/34e509e0-c57f-4041-bfda-78c27c121439)
+
 3. Automatically loads digital menu to order
+
 ![WhatsApp Image 2023-05-30 at 21 16 15](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/9da9c6b2-ea6b-49b9-a4cb-2483c6326855)
+
 4. Call waiters through one press button
+
+![633d745fb4a644477a0283ad-sistem-panggilan-nirkabel-singcall-satu](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/a381860b-ddcf-414b-832f-9d538276459a)
+
 5. Restaurants receive orders and calls
 
 # CONCLUSIONS 
