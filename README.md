@@ -24,6 +24,7 @@ Digitalizing the food menu in the hotels and the restaurants through QR code and
 2. Scan the QR code menu with Smart phone
 ![WhatsApp Image 2023-05-30 at 21 16 14 (2)](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/34e509e0-c57f-4041-bfda-78c27c121439)
 3. Automatically loads digital menu to order
+![WhatsApp Image 2023-05-30 at 21 16 15](https://github.com/gana2002/restaurant_qr_menu/assets/98261134/9da9c6b2-ea6b-49b9-a4cb-2483c6326855)
 4. Call waiters through one press button
 5. Restaurants receive orders and calls
 
